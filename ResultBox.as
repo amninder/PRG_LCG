@@ -1,0 +1,1 @@
+﻿package  {		public class ResultBox {		public function ResultBox() {			// constructor code		}	}	}
